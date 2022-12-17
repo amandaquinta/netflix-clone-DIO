@@ -1,0 +1,9 @@
+/* resetar as configurações de estilo de todos os navegadores, para garantir estilização padrão */
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
